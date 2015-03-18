@@ -7,7 +7,7 @@
   <burger>
     <patty type="beef" />
     <cheeses top="gruyere" />
-    <topping type="shrooms">
+    <topping type="shrooms" />
     <sauce type="ketchup" />
     <sauce type="mayo" />
   </burger>
