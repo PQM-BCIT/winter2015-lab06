@@ -2,7 +2,7 @@
 
 <!DOCTYPE order SYSTEM 'bonanza.dtd'>
 
-<order>
+<order type="eatin">
   <customer>Jim</customer>
   <burger>
     <patty type="beef" />
