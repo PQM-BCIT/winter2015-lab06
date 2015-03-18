@@ -10,8 +10,8 @@ and open the template in the editor.
 <order type="delivery">
   <customer>Paolo</customer>
     <burger>
-      <patty type="ox" />
-      <cheeses top="processed" bottom="nacho" />
+      <patty type="bison" />
+      <cheeses top="gruyere" bottom="blue" />
       <topping type="bacon" />
       <topping type="lettuce" />
       <topping type="tomato" />
